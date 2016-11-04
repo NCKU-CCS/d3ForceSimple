@@ -20,4 +20,5 @@ It's a demo to use d3.js making a gravity simulation .
 - ` . ` : on / off shaking !!
 
 ---
-##### License : MIT © NCKU-CCS - Tsehang
+### License
+MIT © NCKU-CCS
