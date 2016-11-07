@@ -7,7 +7,7 @@
 	- realtime data storage
 
 ### Description
-It's a demo to use d3.js making a gravity simulation .
+It use d3.js to make a gravity simulation demo.
 
 **The interesting thing** is we combined width firebase's database . When a user submit a form / data , we'll insert a gravity ball and then analysis data, realtimely.
 
@@ -17,7 +17,7 @@ It's a demo to use d3.js making a gravity simulation .
 
 ### Usage
 - Create a [Firebase](https://firebase.google.com) project 
-- Get your project's config code ( Remember setting your firebase's project rule `public` or `user`, that can make you get data successly )
+- Get your project's config code ( Remember to set your firebase's project rule `public` or `user`, that can make you get data successly )
 ```html
 <script>
   // Initialize Firebase
